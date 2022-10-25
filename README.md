@@ -37,6 +37,14 @@ anything they like related to tech and fun.
 
 Contributions are accepted in the form of Graphic designs or Ui-Ux
  designs.
+ 
+ ## Steps to Contribute in this Repository
+
+ 1)Fork this repo
+ 2)Create a new folder/repository for your projects
+ 3)Add useful content for the problem stated
+ 4)Make pull request
+ 5)Now,we will review the pull request and merge it,if finds it good.(After merging you will be notified)
 
 
 ## No Code Contributers
