@@ -52,7 +52,7 @@ Contributions are accepted in the form of Graphic designs or Ui-Ux
 
 ## No Code Contributers
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+This project exists thanks to all the people who contribute. [Contribute](./CONTRIBUTING.md).
 
 <a href="https://github.com/semikolan-co/Graphics_no_code/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=semikolan-co/Graphics_no_code" />
