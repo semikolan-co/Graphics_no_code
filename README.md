@@ -19,37 +19,40 @@
 # Graphic - No Code Contribution
 
 Semikolan brings a repository for people who want to participate
-in hacktober fest 2k22 for No Code Contribution.
+in [Hactoberfest 2022](https://hacktoberfest.com/) for No Code Contribution.
 
 From this very first year hacktober fest is accepting one's contribution
 in the new category that is 'No Code Contribution'.
 
 
 # Semikolan
+
 Semikolan is an open source focused community where we share our 
 learnings, promote hackathons, conduct workshops beneficial to 
 others and an inclusive space where anyone can share and ask 
 anything they like related to tech and fun.
-
-
 
 ## We accept
 
 Contributions are accepted in the form of Graphic designs or Ui-Ux
  designs.
  
- ## Steps to Contribute in this Repository
+## Steps to Contribute in this Repository
 
- 1)Fork this repo
- 2)Create a new folder/repository for your projects
- 3)Add useful content for the problem stated
- 4)Make pull request
- 5)Now,we will review the pull request and merge it,if finds it good.(After merging you will be notified)
+ 1. Fork this repo
+ 
+ 2. Create a new folder/repository for your project
+ 
+ 3. Add useful content for the problem stated
+ 
+ 4. Make pull request
+ 
+ 5. Now, we will review the pull request and merge it,if finds it good (After merging you will be notified)
 
 
 ## No Code Contributers
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
+This project exists thanks to all the people who contribute.
 
 <a href="https://github.com/semikolan-co/Graphics_no_code/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=semikolan-co/Graphics_no_code" />
